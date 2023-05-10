@@ -1,0 +1,50 @@
+/* *****GENERAL**** */
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+body {
+    background-color: yellow;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* ******HEADER***** */
+
+h2, nav, aside, a, small {
+    background-color: blue;
+    color:  #fff;
+}
+
+h2 {
+    text-align: center;
+}
+/* ******HEADER_IMAGES**** */
+img {
+    
+    margin: 0 auto;
+    width: 100%;
+}
+
+/* *******MAIN****** */
+
+h1 {
+    color: red;
+}
+
+p {
+    background-color: white;
+}
+
+ 
+
+
+
+
+
+
