@@ -1,0 +1,44 @@
+/* *********GENERAL******** */
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+
+    /* ***********HEADER******* */
+header img {   
+    height: 150px;
+}
+
+
+/* *******NAV****** */
+
+nav  {
+    display: flex;
+    align-items: center;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav li {
+    margin: 0 10px;
+}
+
+
+/* ********BACKGROUND-TEXT*********** */
+
+
+.background-text img{
+    width: 100%;
+}
+
+.info {
+    background-color: green;
+    opacity: 50%;
+}
+
+
